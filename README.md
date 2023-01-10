@@ -27,5 +27,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Roneeey/RatingWidget/settings/pages)
-- Live Site URL: [Add live site URL here](https://roneeey.github.io/RatingWidget/)
+- Solution URL: [GitHub](https://github.com/Roneeey/RatingWidget/settings/pages)
+- Live Site URL: [GitHub Pages](https://roneeey.github.io/RatingWidget/)
